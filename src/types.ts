@@ -15,7 +15,7 @@ export type Options = {
 
 export const DEFAULT_OPTIONS: Options = {
 	api: {
-		hostname: 'api.lanyard.rest',
+		hostname: 'lanyard.re.home',
 		secure: true,
 	},
 };

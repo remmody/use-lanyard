@@ -1,7 +1,7 @@
 {
-	"name": "use-lanyard",
+	"name": "remmody-use-lanyard",
 	"author": "Alistair Smith <hi@alistair.sh> | LocalNet Fork RemmoDY",
-	"version": "1.7.0",
+	"version": "1.7.1",
 	"type": "module",
 	"description": "React hook for Lanyard for tracking your Discord presence.",
 	"repository": "https://github.com/remmody/use-lanyard",
